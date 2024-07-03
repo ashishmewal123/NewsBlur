@@ -16,7 +16,7 @@ pipeline {
             steps {
                 // Only for demonstration, assuming your repository is already cloned
                 echo 'Checking out the repository...'
-                // git 'https://github.com/ashishmewal123/NewsBlur.git'
+                 git 'https://github.com/ashishmewal123/NewsBlur.git'
             }
         }
 
